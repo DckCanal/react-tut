@@ -50,7 +50,7 @@ function Square(props) {
         history : [{
           squares: Array(9).fill(null),
         }],
-          xIsNext: true,
+        xIsNext: true,
       };
     }
 
